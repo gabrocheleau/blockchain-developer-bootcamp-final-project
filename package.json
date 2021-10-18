@@ -1,0 +1,11 @@
+{
+  "name": "3-way-atomic-swaps",
+  "version": "1.0.0",
+  "description": "dAPP that enables atomic swaps between 3 parties",
+  "main": "index.js",
+  "author": "Gabriel Rocheleau",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.6.6"
+  }
+}
